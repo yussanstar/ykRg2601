@@ -1,4 +1,4 @@
-#include "global_del.h"
+#include "global_def.h"
 
 int main() {
 	return 0;

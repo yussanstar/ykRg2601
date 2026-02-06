@@ -17,6 +17,10 @@ namespace rg
 {
 	using IAllocatorPtr = ykl::STLSharedPtr<ykl::IAllocator>;
 }
+namespace ykl::test
+{
+	using IAllocatorPtr = ykl::STLSharedPtr<ykl::IAllocator>;
+}
 
 #include "math/math.h"
 #include "math/vector.h"

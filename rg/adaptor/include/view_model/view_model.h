@@ -3,7 +3,7 @@
 #ifndef _YK_VIEW_MODEL_H_
 #define _YK_VIEW_MODEL_H_
 
-#include "global_del.h"
+#include "global_def.h"
 #include <list>
 #include "vm_window.h"
 
